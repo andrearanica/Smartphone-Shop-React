@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="638.29791mm"
+   height="1000mm"
+   viewBox="0 0 638.29791 1000"
+   version="1.1"
+   id="svg853"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="smartphone-stilizzato.svg">
+  <defs
+     id="defs847" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="913.2091"
+     inkscape:cy="1352.9697"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4245"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata850">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(287.63844,879.59245)">
+    <g
+       id="g4245"
+       transform="matrix(5.3139707,0,0,5.3139707,-579.94684,-3643.7086)">
+      <rect
+         ry="29.708712"
+         y="520.16022"
+         x="55.00753"
+         height="188.1832"
+         width="120.11694"
+         id="rect3861"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0952239" />
+      <rect
+         y="546.37537"
+         x="67.034401"
+         height="136.13251"
+         width="96.093544"
+         id="rect3774"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00104105;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="532.28906"
+         x="94.988922"
+         height="4.0038981"
+         width="40.038975"
+         id="rect3776"
+         style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.40038979;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 115.08118,687.21956 a 8.0077959,8.0077954 0 0 1 8.00727,7.91501 8.0077959,8.0077954 0 0 1 -7.82172,8.09843 8.0077959,8.0077954 0 0 1 -8.18849,-7.72734 8.0077959,8.0077954 0 0 1 7.63194,-8.27749"
+         id="path3859"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00097442;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 0,
+        "name": "Xiaomi 12",
+        "price": 874,
+        "description": "Il migliore Xiaomi di sempre: con 108 megapixel, un display a 120Hz e tutta la potenza necessaria con il nuovo Snapdragon 8 gen. 1",
+        "available": "Sì",
+        "color": "green",
+        "img": "https://i01.appmifile.com/webfile/globalimg/wangyue/800/L3_Xiaomi12_Blue.png",
+        "manufacturer": "Xiaomi"
+    },
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S22",
+        "price": 745,
+        "description": "Lo smartphone compatto migliore di sempre: tutta la potenza del nuovo processore Qualcomm in un corpo sottile e portatile, con una fotocamera stratosferica e un design moderno",
+        "available": "Sì",
+        "color": "green",
+        "img": "https://asset.mediaw.it/wcsstore/MMCatalogAssetStore/asset/images/16/81/168124.jpg",
+        "manufacturer": "Samsung"
+    },
+    {
+        "id": 2,
+        "name": "Oppo Find X5",
+        "price": 894,
+        "description": "Il top di gamma Oppo è finalmente tornato, con nuove fotocamere, un design elegante e tutta la tecnologia di cui hai bisogno",
+        "available": "No",
+        "color": "red",
+        "img": "data:image/jpeg;base64,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",
+        "manufacturer": "Oppo"
+    },
+    {
+        "id": 3,
+        "name": "OnePlus Nord",
+        "price": 845,
+        "description": "Lo smartphone più equilibrato sul mercato, con ottimo display e fotocamere",
+        "available": "Sì",
+        "color": "green",
+        "img": "https://i.ebayimg.com/images/g/VjAAAOSwiw1fGUoN/s-l640.jpg",
+        "manufacturer": "OnePlus"
+    },
+    {
+        "id": 4,
+        "name": "Xiaomi Redmi Note 11",
+        "price": 245,
+        "description": "Lo smartphone più equilibrato sul mercato, con ottimo display e fotocamere",
+        "available": "Sì",
+        "color": "green",
+        "img": "https://i01.appmifile.com/webfile/globalimg/gaobiyun/cellphone_800/K7T_darkblue_800.png",
+        "manufacturer": "Xiaomi"
+    },
+    {
+        "id": 5,
+        "name": "Nothing Phone (1)",
+        "price": 459,
+        "description": "Lo smartphone più equilibrato sul mercato, con ottimo display e fotocamere",
+        "available": "Sì",
+        "color": "green",
+        "img": "https://cdn.shopify.com/s/files/1/0514/8554/0505/files/phone1-white.png?v=1657163061",
+        "manufacturer": "Nothing"
+    },
+    {
+        "id": 6,
+        "name": "Asus ROG Phone 6 Pro",
+        "price": 899,
+        "description": "Lo smartphone da gaming più potente al mondo, senza limiti",
+        "available": "No",
+        "color": "red",
+        "img": "https://fdn.gsmarena.com/imgroot/news/22/07/asus-rog-phone-6-ofic/inline/-1200x900m/gsmarena_002.jpg",
+        "manufacturer": "Asus"
+    },
+    {
+        "id": 7,
+        "name": "Realme 9",
+        "price": 270,
+        "description": "Realme è tornata con uno dei dispositivi con il rapporto qualità-prezzo migliori sul mercato",
+        "available": "Sì",
+        "color": "green",
+        "img": "https://m.media-amazon.com/images/I/61Bp7Hqwz5L._AC_SX425_.jpg",
+        "manufacturer": "Realme"
+    },
+    {
+        "id": 8,
+        "name": "Moto Edge 30",
+        "price": 649,
+        "description": "Uno degli smartphone più eleganti mai presentati da motorola, con una scheda tecnica formidabile e un ottimo rapposto qualità-prezzo",
+        "available": "No",
+        "color": "red",
+        "img": "https://cdn-files.kimovil.com/default/0007/28/thumb_627827_default_big.jpg",
+        "manufacturer": "Motorola"
+    },
+    {
+        "id": 9,
+        "name": "Samsung Galaxy A52s 5G",
+        "price": 259,
+        "description": "",
+        "available": "Sì",
+        "color": "green",
+        "img": "https://photo.yeppon.it/samsung-galaxy-a52s-5g/93-93847863_6553002981_561_x_709.jpg?tr=t-true,w-480,h-480,c-at_max:w-500,h-500,cm-pad_extract,bg-FFFFFF",
+        "manufacturer": "Samsung"
+    },
+    {
+        "id": 10,
+        "name": "Samsung Galaxy Z Flip 3",
+        "price": 799,
+        "description": "",
+        "available": "Sì",
+        "color": "green",
+        "img": "https://m.media-amazon.com/images/I/71KoToAjXqL._AC_SL1500_.jpg",
+        "manufacturer": "Samsung"
+    }
+]
