@@ -1,6 +1,6 @@
 # Smartphone-Shop-React
 Negozio online di vendita di smartphone realizzato interamente in <a target="_blank" href="https://it.reactjs.org/">React</a>: il negozio consente di visualizzare tutti i prodotti presenti in magazzino, di verificarne la loro disponibilità e di inserirli o rimuoverli in un carrello. Tutti i prodotti sono contenuti nel file /src/json/smartphones.json: aggiornando questo file, si possono inserire tutti gli smartphone che si desidera. Attenzione: si tratta di una pagina interamente front-end, percui ricaricando la pagina i dati verranno persi.<br /><br />
-![image](https://user-images.githubusercontent.com/78600927/181239287-c64a56e8-7410-4165-9b7b-552c8a368266.png)
+![image](https://user-images.githubusercontent.com/78600927/182109939-2be9029d-2933-47ee-814e-2fb07ca4e291.png)
 <h2>Funzionamento</h2>
 Scorrendo la pagina, si troveranno tutti gli smartphone presenti nel file <i>smartphones.json</i>: è possibile inserire il prodotto (max. 1) nel carrello tramite il pulsante <i>Aggiungi al carrello</i>, che si trova in fondo alla pagina. Il prodotto verrà inserito solamente se è disponibili. Nella sezione del carrello, è possibile rimuovere il prodotto inserito tramite l'apposito tasto e visualizzare il totale. 
 <h2>React</h2>
